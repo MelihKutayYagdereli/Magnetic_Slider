@@ -1,1 +1,1 @@
-# Magnetic_Slider
+# Magnetic Slider
